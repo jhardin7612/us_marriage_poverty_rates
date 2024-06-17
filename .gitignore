@@ -1,3 +1,11 @@
+#local vscode and MAC stuff
+.vscode
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
